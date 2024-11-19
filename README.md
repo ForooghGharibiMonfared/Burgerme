@@ -55,7 +55,7 @@ Through advanced techniques in Natural Language Processing (NLP), clustering, se
 <li><strong>Techniques:</strong>LP, topic modeling, clustering, PCA, sentiment analysis, SWOT analysis</li>
 
 -------------------------------------------------
-This project serves as a valuable resource for BurgerMe's management to make informed, data-backed decisions and gain a competitive edge in the food delivery market.
+This project serves as a valuable resource for BurgerMe's management in Kiel to make informed, data-backed decisions and gain a competitive edge in the food delivery market.
 
 obtainig some plots like this:
 
