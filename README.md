@@ -9,12 +9,6 @@ Through advanced techniques in Natural Language Processing (NLP), clustering, se
 
 <li> transaction data analysis </li>
 
-To find some plots like this:
-
-<img src="photo 5 copy.png" />
-
-<img src="photo 8 copy.png" />
-
 <li>Customer Sentiment Analysis </li>
 
 <li> SWOT Analysis </li>
@@ -50,12 +44,13 @@ To find some plots like this:
 
 <li><strong>Techniques:</strong>LP, topic modeling, clustering, PCA, sentiment analysis, SWOT analysis</li>
 
-**Future Improvements**
-
-<li>Integration of real-time data for dynamic customer feedback monitoring.</li>
-  
-<li>Advanced machine learning models for predicting customer trends and improving sales strategies.</li>
 
 This project serves as a valuable resource for BurgerMe's management to make informed, data-backed decisions and gain a competitive edge in the food delivery market.
+
+obtainig some plots like this:
+
+<img src="photo 5 copy.png" />
+
+<img src="photo 8 copy.png" />
 
 
