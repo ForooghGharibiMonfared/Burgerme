@@ -10,7 +10,8 @@ Through advanced techniques in Natural Language Processing (NLP), clustering, se
 <li> transaction data analysis </li>
 
 To find some image like this:
-<img src="photo1.webp" />
+<img src="photo 5 copy.png" />
+<img src="photo 8 copy.png" />
 
 <li>Customer Sentiment Analysis </li>
 
