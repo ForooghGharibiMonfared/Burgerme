@@ -7,39 +7,48 @@ Through advanced techniques in Natural Language Processing (NLP), clustering, se
 
 **Key Objectives**
 
-<li> transaction data analysis<\li>
-\item {Customer Sentiment Analysis} 
+<li> transaction data analysis </li>
 
-\item {SWOT Analysis}
+<li>Customer Sentiment Analysis </li>
 
-\item {Proposed SO (Strengths-Opportunities) strategies} 
+<li> SWOT Analysis </li>
+
+<li>Proposed SO (Strengths-Opportunities) strategies</li>
 
 **Key Features of the Project**
-\item { Data Cleaning & Preparation}
+ 
+ <li>Data Cleaning & Preparation</li>
 
-\item { data visualization}
+<li> data visualization} </li>
 
-\item { Sentiment Analysis}
+<li> Sentiment Analysis</li>
 
-\item { Clustering Visualization}
+<li>Clustering Visualization</li>
 
-\item { Engagement Score Analysis}
+<li>Engagement Score Analysis</li>
 
-\item {SWOT & Strategy Suggestions}
+<li>SWOT & Strategy Suggestions</li>
 
 **Deliverables**
-\item {Data-driven insights and visualizations to showcase customer sentiment trends and market performance.}
-\item {Clustering plots and sentiment scores for better understanding of customer feedback.}
-\item {Strategic recommendations for improving sales and engagement.}
+<li>Data-driven insights and visualizations to showcase customer sentiment trends and market performance.</li>
+
+<li>Clustering plots and sentiment scores for better understanding of customer feedback.</li>
+
+<li>Strategic recommendations for improving sales and engagement.</li>
 
 **Tools& Techniques**
-\item {**Programming Languages:** Python}
-\item {**Libraries:** pandas, numpy, matplotlib, seaborn, sklearn, nltk}
-\item {**Techniques:** NLP, topic modeling, clustering, PCA, sentiment analysis, SWOT analysis}
+
+<li>**Programming Languages:** Python</li>
+
+<li>**Libraries:** pandas, numpy, matplotlib, seaborn, sklearn, nltk</li>
+
+<li>**Techniques:** NLP, topic modeling, clustering, PCA, sentiment analysis, SWOT analysis</li>
 
 **Future Improvements**
-\item {Integration of real-time data for dynamic customer feedback monitoring.}
-\item {Advanced machine learning models for predicting customer trends and improving sales strategies.}
+
+<li>Integration of real-time data for dynamic customer feedback monitoring.</li>
+  
+<li>Advanced machine learning models for predicting customer trends and improving sales strategies.</li>
 
 This project serves as a valuable resource for BurgerMe's management to make informed, data-backed decisions and gain a competitive edge in the food delivery market.
 
