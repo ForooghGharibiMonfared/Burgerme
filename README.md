@@ -7,7 +7,7 @@ Through advanced techniques in Natural Language Processing (NLP), clustering, se
 
 **Key Objectives**
 
-\item { transaction data analysis}
+<li> transaction data analysis<\li>
 \item {Customer Sentiment Analysis} 
 
 \item {SWOT Analysis}
