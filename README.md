@@ -9,6 +9,9 @@ Through advanced techniques in Natural Language Processing (NLP), clustering, se
 
 <li> transaction data analysis </li>
 
+To find some image like this:
+<img src="photo1.webp" />
+
 <li>Customer Sentiment Analysis </li>
 
 <li> SWOT Analysis </li>
