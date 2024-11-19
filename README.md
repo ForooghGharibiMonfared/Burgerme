@@ -40,9 +40,9 @@ Through advanced techniques in Natural Language Processing (NLP), clustering, se
 
 <li><strong>Programming Languages:</strong> Python</li>
 
-<li><strong>Libraries: <\strong> pandas, numpy, matplotlib, seaborn, sklearn, nltk</li>
+<li><strong>Libraries:</strong> pandas, numpy, matplotlib, seaborn, sklearn, nltk</li>
 
-<li><strong>Techniques:<\strong>NLP, topic modeling, clustering, PCA, sentiment analysis, SWOT analysis</li>
+<li><strong>Techniques:</strong>LP, topic modeling, clustering, PCA, sentiment analysis, SWOT analysis</li>
 
 **Future Improvements**
 
