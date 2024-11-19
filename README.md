@@ -38,7 +38,7 @@ Through advanced techniques in Natural Language Processing (NLP), clustering, se
 
 **Tools& Techniques**
 
-<li><strong>Programming Languages:<\strong>  Python</li>
+<li><strong>Programming Languages:</strong> Python</li>
 
 <li><strong>Libraries: <\strong> pandas, numpy, matplotlib, seaborn, sklearn, nltk</li>
 
